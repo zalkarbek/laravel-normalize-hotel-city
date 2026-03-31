@@ -177,3 +177,10 @@ POST /rollback
 
 ---
 
+
+## 🧠 Примеры
+![Demo](public/screen-1.png)
+При нажатии кнопки нормализация
+![Demo](public/screen-2.png)
+При нажатии кнопки rollback
+---
